@@ -1,0 +1,1 @@
+<p>Copyright @shaif_corporation <?php echo date('Y'); ?> </p>
